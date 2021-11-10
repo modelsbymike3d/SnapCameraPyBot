@@ -32,6 +32,8 @@ In all three cases the output file will be `rickroll_lens.mp4`.
 
 Before you run the script, make sure Snap Camera is ready with the correct input and lens. For me personally, I have SplitCam setup with the OBS virtual cam as the input device. Then on Snap Camera I have SplitCam set for the input. Double check the video resolutions inside SplitCam and Snap Camera to make sure they match the resolution of the video you are applying the lens to.
 
+I'd love to see what you create! Feel free to tag me on Twitter [@modelsbymike3d](https://twitter.com/ModelsByMike3D) with your creations.
+
 ## Example output
 
 <iframe src="https://giphy.com/embed/9DV9Tmqsi1ocMfSzkR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9DV9Tmqsi1ocMfSzkR">via GIPHY</a></p>
