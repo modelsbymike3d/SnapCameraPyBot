@@ -36,7 +36,7 @@ I'd love to see what you create! Feel free to tag me on Twitter [@modelsbymike3d
 
 ## Example output
 
-<iframe src="https://giphy.com/embed/9DV9Tmqsi1ocMfSzkR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9DV9Tmqsi1ocMfSzkR">via GIPHY</a></p>
+![A GIF preview of "Never Gonna Give You Up" with the 3D Cartoon Snapchat lens applied](https://media.giphy.com/media/9DV9Tmqsi1ocMfSzkR/giphy-downsized-large.gif)
 
 ## Limitations
 
