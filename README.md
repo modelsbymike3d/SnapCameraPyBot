@@ -36,7 +36,7 @@ I'd love to see what you create! Feel free to tag me on Twitter [@modelsbymike3d
 
 ## Example output
 
-![A GIF preview of "Never Gonna Give You Up" with the 3D Cartoon Snapchat lens applied](https://media.giphy.com/media/9DV9Tmqsi1ocMfSzkR/giphy-downsized-large.gif)
+![A GIF preview of "Never Gonna Give You Up" with the 3D Cartoon Snapchat lens applied](demo/rickroll-cartoon-3d.gif)
 
 ## Limitations
 
