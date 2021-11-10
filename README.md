@@ -34,6 +34,10 @@ Before you run the script, make sure Snap Camera is ready with the correct input
 
 I'd love to see what you create! Feel free to tag me on Twitter [@modelsbymike3d](https://twitter.com/ModelsByMike3D) with your creations.
 
+### Video tutorial
+
+[View tutorial on YouTube](https://youtu.be/mmec5UldeRw)
+
 ## Example output
 
 ![A GIF preview of "Never Gonna Give You Up" with the 3D Cartoon Snapchat lens applied](demo/rickroll-cartoon-3d.gif)
